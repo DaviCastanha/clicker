@@ -7,10 +7,10 @@
 **OU**
 
 
-- Clone ou baixe o repositório para executar pelo cmd/powershell
+- Clone ou baixe o repositório para executar pelo <em> cmd/powershell</em>
 
 
-- Para garantir que as dependências sejam instlaadas corretamente,utilize o comando: pip install -r requirements.txt
+- Para garantir que as dependências sejam instlaadas corretamente,utilize o comando: <em>pip install -r requirements.txt</em>
 
 
 - Depois disso, rode o arquivo através do comando: python clicker_bot.py  
@@ -22,13 +22,22 @@ Já existe uma [documentação](https://github.com/DaviCastanha/clicker/blob/mas
 
 
 **F7** para gravar uma coordenada do mouse.
+
 **F6** para selecionar a primeira coordenada de uma linha, F6 novamente para selecionar a coordenada final.
+
 **F5** para selecionar a primeira coordenada da área, F5 novamente para selecionar a coordenada final.
+
 **F8** para iniciar e parar o loop.
+
 -------------------------------------
 **Tipo**: Click, Linha e Área.
+
 **Coordenadas**: Coordenadas gravadas nesta execução.
+
 **Atraso**: Tempo de atraso até o click ser executado nesta linha em segundos.
+
 **Segurar Click**: Clica e segura o click pela quantidades de segundo determinada.
+
 **Espaçamento**: Define a quantidade de pixels que o mouse deve pular a cada (Atraso) em uma linha ou área.
+
 **Remover**: Deleta a linha gravada.
