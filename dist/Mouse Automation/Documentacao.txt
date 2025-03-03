@@ -1,0 +1,11 @@
+F7 para gravar uma coordenada do mouse.
+F6 para selecionar a primeira coordenada de uma linha, F6 novamente para selecionar a coordenada final.
+F5 para selecionar a primeira coordenada da área, F5 novamente para selecionar a coordenada final.
+F8 para iniciar e parar o loop.
+-------------------------------------
+Tipo: Click, Linha e Área.
+Coordenadas: Coordenadas gravadas nesta execução.
+Atraso: Tempo de atraso até o click ser executado nesta linha em segundos.
+Segurar Click: Clica e segura o click pela quantidades de segundo determinada.
+Espaçamento: Define a quantidade de pixels que o mouse deve pular a cada (Atraso) em uma linha ou área.
+Remover: Deleta a linha gravada.
